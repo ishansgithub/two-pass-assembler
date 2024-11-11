@@ -1,2 +1,2 @@
 # two-pass-assembler
-two-pass-assembler in c++
+two-pass-assembler and an emulatorin c++
